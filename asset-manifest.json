@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "https://souvitorgabriel.github.io/csb-btt097/static/css/main.cc0f2558.chunk.css",
+    "main.js": "https://souvitorgabriel.github.io/csb-btt097/static/js/main.02c4acfc.chunk.js",
+    "main.js.map": "https://souvitorgabriel.github.io/csb-btt097/static/js/main.02c4acfc.chunk.js.map",
+    "runtime-main.js": "https://souvitorgabriel.github.io/csb-btt097/static/js/runtime-main.d67ad68b.js",
+    "runtime-main.js.map": "https://souvitorgabriel.github.io/csb-btt097/static/js/runtime-main.d67ad68b.js.map",
+    "static/css/2.f26e749f.chunk.css": "https://souvitorgabriel.github.io/csb-btt097/static/css/2.f26e749f.chunk.css",
+    "static/js/2.cbbb8a8a.chunk.js": "https://souvitorgabriel.github.io/csb-btt097/static/js/2.cbbb8a8a.chunk.js",
+    "static/js/2.cbbb8a8a.chunk.js.map": "https://souvitorgabriel.github.io/csb-btt097/static/js/2.cbbb8a8a.chunk.js.map",
+    "index.html": "https://souvitorgabriel.github.io/csb-btt097/index.html",
+    "static/css/2.f26e749f.chunk.css.map": "https://souvitorgabriel.github.io/csb-btt097/static/css/2.f26e749f.chunk.css.map",
+    "static/css/main.cc0f2558.chunk.css.map": "https://souvitorgabriel.github.io/csb-btt097/static/css/main.cc0f2558.chunk.css.map",
+    "static/js/2.cbbb8a8a.chunk.js.LICENSE.txt": "https://souvitorgabriel.github.io/csb-btt097/static/js/2.cbbb8a8a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d67ad68b.js",
+    "static/css/2.f26e749f.chunk.css",
+    "static/js/2.cbbb8a8a.chunk.js",
+    "static/css/main.cc0f2558.chunk.css",
+    "static/js/main.02c4acfc.chunk.js"
+  ]
+}
